@@ -6,7 +6,7 @@
 
 
 .backhead {
-    background-image: url(/img/fondocode.jpg);
+    background-image: url(./img/fondocode.jpg);
     background-repeat: repeat-x;
     padding: 0;
     height: 33vh;
@@ -14,7 +14,7 @@
 }
 
 .sectionhead {
-    background-image: url(/img/cmdhead.png);
+    background-image: url(./img/cmdhead.png);
     background-color: black;
     background-size: cover;
     background-repeat: no-repeat;
