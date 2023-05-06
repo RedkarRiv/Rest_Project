@@ -30,8 +30,9 @@ body {
     background-image: url(../img/fondocode72.jpg);
     background-color: black;
     background-repeat: repeat-x;
+    background-size: cover;
     padding: 0;
-    height: 20vh;
+    height: 52vh;
     width: 100vw;
 }
 
@@ -42,12 +43,12 @@ body {
     background-repeat: no-repeat;
     background-position: right;
     height: 2vh;
-    width: 100vw;
+    width: 50vw;
     overflow-x: hidden;
 }
 
 
-.section {
+.sections {
     margin-bottom: 10%;
 }
 
@@ -125,5 +126,15 @@ body {
 .backfoot {
 
     background-color: black;
+
+}
+
+
+.formsection {
+    width: 40vw;
+}
+
+.formsize {
+    width: 40vw;
 
 }
