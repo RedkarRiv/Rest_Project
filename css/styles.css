@@ -5,6 +5,7 @@
 } */
 
 
+
 .backhead {
     background-image: url(../img/fondocode72.jpg);
     background-color: black;
@@ -23,4 +24,39 @@
     height: 2vh;
     width: 100%;
     overflow-x: hidden;
+}
+
+
+/* .section {
+    width: 100%;
+
+} */
+
+.backfoot {
+    background-image: url(../img/fondocode72.jpg);
+    background-color: black;
+    background-repeat: repeat-x;
+    padding: 0;
+    height: 20vh;
+    width: 100%;
+}
+
+.claimhead {
+    width: fit-content;
+
+}
+
+.aboutdevstaurant {
+
+    height: 20vh;
+}
+
+.backmiddle {
+    background-image: url(../img/fondocode72.jpg);
+    background-color: black;
+    background-repeat: repeat-x;
+    padding: 0;
+    height: 10vh;
+    width: 100%;
+
 }
