@@ -11,7 +11,7 @@
     background-color: black;
     background-repeat: repeat-x;
     padding: 0;
-    height: 34vh;
+    height: 20vh;
     width: 100%;
 }
 
@@ -32,24 +32,35 @@
 
 } */
 
-.backfoot {
-    background-image: url(../img/fondocode72.jpg);
-    background-color: black;
-    background-repeat: repeat-x;
-    padding: 0;
-    height: 20vh;
+
+.videohead {
+    height: 100%;
+    object-fit: cover;
     width: 100%;
+    position: relative;
 }
 
-.claimhead {
-    width: fit-content;
+.video-box {
+    height: 45vh;
 
 }
 
-.aboutdevstaurant {
-
-    height: 20vh;
+.logodevs {
+    position: absolute;
+    z-index: 1;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 35%;
 }
+
+.galleryimg {
+    border: red solid 1em;
+    color: white;
+
+}
+
+
 
 .backmiddle {
     background-image: url(../img/fondocode72.jpg);
@@ -58,5 +69,19 @@
     padding: 0;
     height: 10vh;
     width: 100%;
+
+}
+
+.backfoot {
+    background-image: url(../img/fondocode72.jpg);
+    background-color: black;
+    background-repeat: repeat-x;
+    padding: 0;
+    height: 40vh;
+    width: 100%;
+}
+
+.galleryimg {
+    max-height: 100%;
 
 }
