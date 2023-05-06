@@ -8,6 +8,9 @@
     margin: 0;
     padding: 0;
     border: 0;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
 
 }
 
@@ -16,7 +19,11 @@ body {
     padding: 0;
     border: 0;
     margin: 0;
-    overflow-x: hidden;
+    /* overflow-x: hidden; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
 }
 
 
@@ -51,19 +58,20 @@ body {
     object-fit: cover;
     width: 100vw;
     position: relative;
+
 }
 
 
 .videohead video {
     height: 40vh;
     object-fit: cover;
-    width: 100%;
+    width: 100vw;
     position: relative;
 }
 
 
 .videocontent {
-    width: 100vh;
+    width: 100vw;
 
 }
 
