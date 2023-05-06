@@ -37,7 +37,7 @@ body {
     display: flex;
     align-items: flex-start;
     padding-top: 5vh;
-    padding-bottom: 6vh;
+    padding-bottom: 10vh;
 }
 
 .sectionhead {
@@ -135,10 +135,10 @@ body {
 
 
 .formsection {
-    width: 60vw;
+    width: 55vw;
 }
 
 .formsize {
-    width: 55vw;
+    width: 45vw;
 
 }
