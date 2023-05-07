@@ -9,7 +9,7 @@
     border: 0;
     justify-content: center;
     align-items: center;
-    box-sizing: border-box;
+
 
 }
 
@@ -32,7 +32,7 @@ body {
     background-repeat: repeat-x;
     background-size: cover;
     padding: 0;
-    height: auto;
+    height: 60vh;
     width: 100vw;
     display: flex;
     align-items: flex-start;
@@ -86,7 +86,7 @@ body {
 .logodevs {
     position: absolute;
     z-index: 1;
-    top: 30%;
+    top: 25%;
     left: 50%;
     transform: translate(-50%, -50%);
     width: 35%;
@@ -151,7 +151,7 @@ body {
     background-repeat: repeat-x;
     padding: 0;
     width: 100vw;
-    height: 10VH;
+    height: 13VH;
 }
 
 .gallerytitle {
