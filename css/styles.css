@@ -147,3 +147,19 @@ body {
     background-color: white;
     color: black
 }
+
+.backhead2 {
+    background-image: url(../img/fondocode72.jpg);
+    background-color: black;
+    background-repeat: repeat-x;
+    padding: 0;
+    width: 100vw;
+    height: 10VH;
+}
+
+.gallerytitle {
+    background: black;
+    color: white;
+    width: 100%;
+
+}
