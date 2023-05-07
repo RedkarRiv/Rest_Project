@@ -13,7 +13,7 @@ Proyecto 2 GeeksHubs- Web de restauración con HTML, CSS y Bootstrap.
 Durante el desarrollo de la pagina web se ha utilizado: HTML para la distribución y composición de los elementos, CSS para el formato especifico de ciertos elementos y los complementos de Bootstrap para la evaluación correspondiente y conseguir un diseño completamente responsive.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/RedkarRiv/GH_FSD_GBC/master/img/tecnologias.jpg"  width="" height="100"></p>
+<img src="https://raw.githubusercontent.com/RedkarRiv/Rest_Project/master/img/tecnologias.jpg"  width="" height="100"></p>
 
 La estructura de la página se ha realizado con elementos de Bootstrap y clases afines para evitar conflictos durante la ejecución y mejorar la escalabilidad. Solo se ha aplicado clases css propias en los casos en los que era imperativo usarlo.
 
