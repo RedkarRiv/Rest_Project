@@ -35,7 +35,7 @@ body {
     width: 100vw;
     display: flex;
     align-items: flex-start;
-    padding-top: 30vh;
+    /* padding: 20vh; */
 
 }
 
@@ -112,16 +112,6 @@ body {
 
 }
 
-/* 
-.backmiddle {
-    background-image: url(../img/fondocode72.jpg);
-    background-color: black;
-    background-repeat: repeat-x;
-    padding: 0;
-    height: 10vh;
-    width: 100vw;
-
-} */
 
 .backfoot {
 
@@ -132,7 +122,6 @@ body {
 
 .formsection {
     width: 55vw;
-    PADDING-bottom: 30vh;
 }
 
 .formsize {
