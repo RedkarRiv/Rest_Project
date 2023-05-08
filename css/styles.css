@@ -35,6 +35,7 @@ body {
     width: 100vw;
     display: flex;
     align-items: flex-start;
+    padding-top: 30vh;
 
 }
 
